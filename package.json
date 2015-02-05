@@ -1,0 +1,19 @@
+{
+  "name": "pusher-js",
+  "version": "1.0.0",
+  "description": "This library is an open source client that allows Javascript clients to connect to the [Pusher webservice](http://pusherapp.com/). It is highly recommended that you use the hosted version of this file to stay up to date with the latest updates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RedContact/pusher-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedContact/pusher-js/issues"
+  },
+  "homepage": "https://github.com/RedContact/pusher-js"
+}
